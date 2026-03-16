@@ -1,0 +1,1 @@
+Amount of symbols in data8.txt: 786

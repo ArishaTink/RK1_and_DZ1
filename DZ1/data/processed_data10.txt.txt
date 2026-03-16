@@ -1,0 +1,1 @@
+Amount of symbols in data10.txt: 1738

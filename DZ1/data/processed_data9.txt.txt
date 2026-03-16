@@ -1,0 +1,1 @@
+Amount of symbols in data9.txt: 114

@@ -1,0 +1,1 @@
+Amount of symbols in data2.txt: 2018
